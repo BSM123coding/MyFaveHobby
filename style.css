@@ -1,0 +1,30 @@
+body{
+text-align: center;
+    font-family: 'Cedarville Cursive';
+}
+img{
+    border-radius: 50%;
+        width:160px;
+}
+#welcome{
+    background-image:linear-gradient(#2daffd 0%,#0db773 100%);
+    width: 100%;
+}
+#bio{
+  background-color: cornflowerblue  
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px, sticky;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px;
+}
